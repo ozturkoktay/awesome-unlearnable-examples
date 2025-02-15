@@ -5,6 +5,9 @@ A curated list of awesome Unlearnable Example papers and resources.
 
 ## Papers
 
+- **ARMOR: Shielding Unlearnable Examples against Data Augmentation** (2025),X. Gong et al. [[pdf]](https://arxiv.org/abs/2501.08862)
+- **Scale-up Unlearnable Examples Learning with High-Performance Computing** (2025), Y. Zhu et al. [[pdf]](https://arxiv.org/abs/2501.06080)
+- **Purify Unlearnable Examples via Rate-Constrained Variational Autoencoders** (2024), Y. Yu et al. [[pdf]](https://arxiv.org/abs/2405.01460)
 - **Stable Unlearnable Example: Enhancing the Robustness of Unlearnable Examples via Stable Error-Minimizing Noise** (2023), Y. Liu et al.  [[pdf]](https://arxiv.org/abs/2311.13091)
 - **Segue: Side-information Guided Generative Unlearnable Examples for Facial Privacy Protection in Real World** (2023), Z. Zhang et al.  [[pdf]](https://arxiv.org/abs/2310.16061)
 - **Re-thinking Data Availablity Attacks Against Deep Neural Networks** (2023), B. Fang et al. [[pdf]](https://arxiv.org/abs/2305.10691)
