@@ -18,6 +18,6 @@ A curated list of awesome Unlearnable Example papers and resources.
 - **Unlearnable Clusters: Towards Label-agnostic Unlearnable Examples** (2022), J. Zhang et al. [[pdf]](https://arxiv.org/abs/2301.01217)
 - **One-Pixel Shortcut: on the Learning Preference of Deep Neural Networks** (2022), S. Wu et al. [[pdf]](https://arxiv.org/abs/2205.12141)
 - **Transferable Unlearnable Examples** (2022), J. Ren et al. [[pdf]](https://arxiv.org/abs/2210.10114)
-- **Robust Unlearnable Examples: Protecting Data Against Adversarial Learning** (2022), S. Fu et al. [[pdf]](https://arxiv.org/abs/2203.14533)
+- **Robust Unlearnable Examples: Protecting Data Against Adversarial Learning** (2022), S. Fu et al. [[pdf]](https://arxiv.org/abs/2203.14533)  [[code]](https://github.com/fshp971/robust-unlearnable-examples)
 - **Going Grayscale: The Road to Understanding and Improving Unlearnable Examples** (2021), Z. Liu et al. [[pdf]](https://arxiv.org/abs/2111.13244)
-- **Unlearnable Examples: Making Personal Data Unexploitable** (2021), H. Huang et al. [[pdf]](https://arxiv.org/abs/2101.04898)
+- **Unlearnable Examples: Making Personal Data Unexploitable** (2021), H. Huang et al. [[pdf]](https://arxiv.org/abs/2101.04898) [[code]](https://github.com/HanxunH/Unlearnable-Examples)
