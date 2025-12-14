@@ -1,11 +1,15 @@
 # Awesome Unlearnable Examples [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome Unlearnable Example papers and resources.
+A curated list of awesome Unlearnable Example papers.
 
 
 ## Papers
 
-- **ARMOR: Shielding Unlearnable Examples against Data Augmentation** (2025),X. Gong et al. [[pdf]](https://arxiv.org/abs/2501.08862)
+- **LUNE: Efficient LLM Unlearning via LoRA Fine-Tuning with Negative Examples**, Y. Liu et al. [[pdf]](https://arxiv.org/pdf/2512.07375)
+- **Towards Provably Unlearnable Examples via Bayes Error Optimisation**, R. Zhang et al. [[pdf]](https://arxiv.org/pdf/2511.08191)
+- **T2UE: Generating Unlearnable Examples from Text Descriptions**, X. Ma et al. [[pdf]](https://arxiv.org/pdf/2508.03091)
+- **Temporal Unlearnable Examples: Preventing Personal Video Data from Unauthorized Exploitation by Object Tracking**, Q. Wu et al. [[pdf]](https://arxiv.org/pdf/2507.07483)
+- **ARMOR: Shielding Unlearnable Examples against Data Augmentation** (2025), X. Gong et al. [[pdf]](https://arxiv.org/abs/2501.08862)
 - **Scale-up Unlearnable Examples Learning with High-Performance Computing** (2025), Y. Zhu et al. [[pdf]](https://arxiv.org/abs/2501.06080)
 - **Purify Unlearnable Examples via Rate-Constrained Variational Autoencoders** (2024), Y. Yu et al. [[pdf]](https://arxiv.org/abs/2405.01460)
 - **Stable Unlearnable Example: Enhancing the Robustness of Unlearnable Examples via Stable Error-Minimizing Noise** (2023), Y. Liu et al.  [[pdf]](https://arxiv.org/abs/2311.13091)
