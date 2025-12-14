@@ -5,10 +5,10 @@ A curated list of awesome Unlearnable Example papers.
 
 ## Papers
 
-- **LUNE: Efficient LLM Unlearning via LoRA Fine-Tuning with Negative Examples**, Y. Liu et al. [[pdf]](https://arxiv.org/pdf/2512.07375)
-- **Towards Provably Unlearnable Examples via Bayes Error Optimisation**, R. Zhang et al. [[pdf]](https://arxiv.org/pdf/2511.08191)
-- **T2UE: Generating Unlearnable Examples from Text Descriptions**, X. Ma et al. [[pdf]](https://arxiv.org/pdf/2508.03091)
-- **Temporal Unlearnable Examples: Preventing Personal Video Data from Unauthorized Exploitation by Object Tracking**, Q. Wu et al. [[pdf]](https://arxiv.org/pdf/2507.07483)
+- **LUNE: Efficient LLM Unlearning via LoRA Fine-Tuning with Negative Examples** (2025), Y. Liu et al. [[pdf]](https://arxiv.org/pdf/2512.07375)
+- **Towards Provably Unlearnable Examples via Bayes Error Optimisation** (2025), R. Zhang et al. [[pdf]](https://arxiv.org/pdf/2511.08191)
+- **T2UE: Generating Unlearnable Examples from Text Descriptions** (2025), X. Ma et al. [[pdf]](https://arxiv.org/pdf/2508.03091)
+- **Temporal Unlearnable Examples: Preventing Personal Video Data from Unauthorized Exploitation by Object Tracking** (2025), Q. Wu et al. [[pdf]](https://arxiv.org/pdf/2507.07483)
 - **ARMOR: Shielding Unlearnable Examples against Data Augmentation** (2025), X. Gong et al. [[pdf]](https://arxiv.org/abs/2501.08862)
 - **Scale-up Unlearnable Examples Learning with High-Performance Computing** (2025), Y. Zhu et al. [[pdf]](https://arxiv.org/abs/2501.06080)
 - **Purify Unlearnable Examples via Rate-Constrained Variational Autoencoders** (2024), Y. Yu et al. [[pdf]](https://arxiv.org/abs/2405.01460)
