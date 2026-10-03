@@ -1,10 +1,12 @@
 # Awesome Unlearnable Examples [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome Unlearnable Example papers.
+A curated list of research papers on Unlearnable Examples (UEs), including methods, attacks, defenses, robustness, transferability, privacy applications, and related work.
+
+Contributions are welcome.
 
 
 ## Papers
-
+- **DiffUE: Enhancing Utility-Unlearnability Trade-off of Unlearnable Examples via Diffusion Autoencoders** (2026), O. Ozturk et al. [[pdf]](https://arxiv.org/pdf/2607.10580)
 - **Unlearnable Faces: Privacy Protection Surviving Extraction Pipeline** (2026), B. Oh et al. [[pdf]](https://arxiv.org/abs/2607.05996)
 - **LUNE: Efficient LLM Unlearning via LoRA Fine-Tuning with Negative Examples** (2025), Y. Liu et al. [[pdf]](https://arxiv.org/pdf/2512.07375)
 - **Towards Provably Unlearnable Examples via Bayes Error Optimisation** (2025), R. Zhang et al. [[pdf]](https://arxiv.org/pdf/2511.08191)
@@ -26,3 +28,35 @@ A curated list of awesome Unlearnable Example papers.
 - **Robust Unlearnable Examples: Protecting Data Against Adversarial Learning** (2022), S. Fu et al. [[pdf]](https://arxiv.org/abs/2203.14533)
 - **Going Grayscale: The Road to Understanding and Improving Unlearnable Examples** (2021), Z. Liu et al. [[pdf]](https://arxiv.org/abs/2111.13244)
 - **Unlearnable Examples: Making Personal Data Unexploitable** (2021), H. Huang et al. [[pdf]](https://arxiv.org/abs/2101.04898)
+
+## Contributing
+
+Contributions are welcome.
+
+If you know of a relevant paper that is missing, please open an issue or submit a pull request.
+
+Please use the following format:
+
+```markdown
+- **Paper Title**  A. Author et al.  [[pdf]](https://arxiv.org/pdf/XXXX.XXXXX)
+```
+
+Papers should be directly related to unlearnable examples, data availability attacks, or defenses and extensions that substantially contribute to the topic.
+
+---
+
+## Related Topics
+
+- Data availability attacks
+- Dataset protection
+- Adversarial machine learning
+- Data poisoning
+- Machine unlearning
+- Privacy-preserving machine learning
+- Generative data protection
+
+---
+
+## License
+
+This repository contains links and bibliographic information for academic publications. Individual papers are subject to their respective licenses and copyrights.
