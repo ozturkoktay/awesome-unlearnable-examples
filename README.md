@@ -5,6 +5,7 @@ A curated list of awesome Unlearnable Example papers.
 
 ## Papers
 
+- **Unlearnable Faces: Privacy Protection Surviving Extraction Pipeline** (2026), B. Oh et al. [[pdf]](https://arxiv.org/abs/2607.05996)
 - **LUNE: Efficient LLM Unlearning via LoRA Fine-Tuning with Negative Examples** (2025), Y. Liu et al. [[pdf]](https://arxiv.org/pdf/2512.07375)
 - **Towards Provably Unlearnable Examples via Bayes Error Optimisation** (2025), R. Zhang et al. [[pdf]](https://arxiv.org/pdf/2511.08191)
 - **T2UE: Generating Unlearnable Examples from Text Descriptions** (2025), X. Ma et al. [[pdf]](https://arxiv.org/pdf/2508.03091)
